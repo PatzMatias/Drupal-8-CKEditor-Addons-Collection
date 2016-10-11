@@ -1,0 +1,8 @@
+name: Dialog UI
+type: module
+description: "Add Dialog UI Manager addon plugin to CKEditor."
+package: CKEditor
+core: 8.x
+
+dependencies:
+  - ckeditor

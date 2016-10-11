@@ -1,0 +1,9 @@
+name: Div
+type: module
+description: "Add Div Container Manager addon plugin to CKEditor."
+package: CKEditor
+core: 8.x
+
+dependencies:
+  - ckeditor
+  - dialog
